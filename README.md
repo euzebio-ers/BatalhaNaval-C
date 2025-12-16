@@ -1,6 +1,6 @@
 # 🚢 Batalha Naval em C
 
-Este é um projeto desenvolvido como parte do curso [Nome do Curso/Técnico], implementando o clássico jogo de tabuleiro **Batalha Naval** utilizando a linguagem C.
+Este é um projeto desenvolvido como parte do curso técnico de Desenvolvimento de sistemas, implementando o clássico jogo de tabuleiro **Batalha Naval** utilizando a linguagem C.
 
 ## 📋 Sobre o Projeto
 
